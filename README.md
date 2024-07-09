@@ -1,5 +1,1 @@
-#TEST 
-git add.
-git commit -m "name"
-git push
-win)
+Создано в рамках курса OTUS JavaScript QA Engineer

@@ -1,4 +1,1 @@
-# Test 123
-qwertqwrwqrwqrqr
-
-dsgsdgdsgsdg
+Создано в рамках курса OTUS JavaScript QA Engineer

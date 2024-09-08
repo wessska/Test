@@ -21,3 +21,5 @@ function newYear(name) {
 
 console.log(newYear('Дед Мороз'));
 console.log(newYear('Снегурочка'));
+
+//дз!
